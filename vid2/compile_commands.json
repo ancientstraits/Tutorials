@@ -1,0 +1,30 @@
+[
+ {
+  "directory": "/home/rotzy/Documents/Tutorials/vid2",
+  "arguments": [
+   "cc",
+   "-o",
+   "obj/main.o",
+   "-c",
+   "src/main.c",
+   "-Iinclude",
+   "-g",
+   "-ggdb"
+  ],
+  "file": "src/main.c"
+ },
+ {
+  "directory": "/home/rotzy/Documents/Tutorials/vid2",
+  "arguments": [
+   "cc",
+   "-o",
+   "obj/shader.o",
+   "-c",
+   "src/shader.c",
+   "-Iinclude",
+   "-g",
+   "-ggdb"
+  ],
+  "file": "src/shader.c"
+ }
+]
